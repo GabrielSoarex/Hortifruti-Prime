@@ -1,0 +1,29 @@
+
+
+ Hortifruti-Prime
+
+ Objetivo:
+O diagrama representa as funcionalidades de um sistema de hortifrúti presencial, onde funcionários gerenciam o estoque e atendem aos pedidos dos clientes no local.
+
+Atores:
+1. Cliente - Pessoa que compra produtos no hortifrúti.
+2. Funcionário - Pessoa responsável por gerenciar o estoque, pedidos e cadastro de clientes.
+3. Sistema de Pagamento - Sistema externo para processar pagamentos dos pedidos.
+
+ Casos de Uso:
+1. Cadastrar Cliente - O funcionário realiza o cadastro dos clientes no sistema para manter registro de compradores.
+2. Procurar Produtos - O cliente pode verificar ou solicitar ajuda para ver os produtos disponíveis.
+3. Selecionar Produtos - O cliente escolhe produtos para compra, com apoio do funcionário, se necessário.
+4. Calcular Total - O funcionário calcula o valor total dos produtos selecionados.
+5. Pagar Pedido - O cliente realiza o pagamento, conectado ao sistema de pagamento externo.
+6. Gerenciar Estoque - O funcionário controla o estoque, verificando e atualizando a disponibilidade dos produtos.
+7. Atualizar Preços - O funcionário altera os preços conforme necessário.
+
+Estrutura do Diagrama:
+
+1. O Cliente interage com os casos de uso: "Procurar Produtos", "Selecionar Produtos" e "Pagar Pedido".
+   
+2. O Funcionário é responsável pelos casos de uso: "Cadastrar Cliente", "Calcular Total", "Gerenciar Estoque" e "Atualizar Preços".
+
+3. O Sistema de Pagamento está vinculado ao caso de uso "Pagar Pedido".
+
