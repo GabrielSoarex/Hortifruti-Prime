@@ -1,6 +1,6 @@
 # 🌱 Hortifruti-Prime  
 
-Bem-vindo ao repositório do *Hortifruti-Prime*! Este projeto é um sistema de gerenciamento para um hortifrúti presencial, desenvolvido com o objetivo de simplificar e organizar operações como cadastro de clientes, controle de vendas e o gerenciamento do caixa.  
+Bem-vindo ao repositório do *Hortifruti-Prime*! Este projeto é um sistema de gerenciamento para um hortifrúti presencial, desenvolvido com o objetivo de simplificar e organizar operações como cadastro de clientes e o gerenciamento do caixa.  
 
 ---
 
@@ -10,7 +10,7 @@ Este repositório contém os seguintes componentes:
 1. *Product Backlog*: Detalhamento das histórias de usuário e requisitos funcionais do sistema.  
 2. *Sprint Planning*: Planejamento das tarefas realizadas em cada sprint, com as metas e o progresso do time.  
 3. *Descrição do Projeto*: Explicação da ideia principal e dos objetivos do sistema.  
-4. *Código-Fonte (C++)*: Implementação do sistema de caixa em C++, com funcionalidades essenciais para gerenciamento de vendas e registros.  
+4. *Código-Fonte (C++)*: Implementação do sistema de caixa em C++, com funcionalidades essenciais para gerenciamento de vendas.  
 
 ---
 
